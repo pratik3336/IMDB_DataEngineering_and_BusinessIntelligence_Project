@@ -32,11 +32,6 @@ The architecture of this project is based on a Multi-Star schema design comprisi
 
 ![alt text](https://i.imgur.com/66aWqmO.png "ADA Diagram")
 
-# Entity Relationship Diagrams
-
-### Data Staging
-
-![alt text](https://i.imgur.com/GEocInI.png "ERD for staging")
 
 ### Data Integration
 
