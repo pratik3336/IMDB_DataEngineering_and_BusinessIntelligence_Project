@@ -1,9 +1,5 @@
 # IMDB_DataEngineering_and_BusinessIntelligence_Project
 
-Here's a reframed version of your GitHub README file:
-
----
-
 ## Project Overview
 
 ### Objective
