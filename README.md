@@ -26,6 +26,33 @@ The architecture of this project is based on a Multi-Star schema design comprisi
 - **BI & Visualization**: PowerBI, Tableau
 - **Data Modeling**: ER Studio
 
+
+
+# Architecture diagram
+
+![alt text](https://i.imgur.com/66aWqmO.png "ADA Diagram")
+
+# Entity Relationship Diagrams
+
+### Data Staging
+
+![alt text](https://i.imgur.com/GEocInI.png "ERD for staging")
+
+### Data Integration
+
+![alt text](https://i.imgur.com/q73pefl.png "ERD for DI")
+
+# Technologies Used
+
+• Talend Open Studio <br />
+• Alteryx Designer <br />
+• SQL (MySQL, SQL Server, PostgreSQL) <br />
+• BI Tools (Tableau, Power BI) <br />
+
+# BI Dashboard (Tableau)
+
+![alt text](https://i.imgur.com/GFAY48G.png "Tableau dashboard")
+
 This project demonstrates the application of advanced data engineering techniques to real-world datasets, providing actionable insights and supporting strategic decision-making in the film industry.
 
 
